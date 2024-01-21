@@ -45,6 +45,7 @@ function selectEl(){
 selectEl();
 
 
+
 function getTimes(ville){
     let params = {
         country: "Ma",
