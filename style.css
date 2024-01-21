@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
 
 body{
-    background-image: radial-gradient(circle, #7fc7d9, #69b1cb, #579bbd, #4886ae, #3e709e, #38608f, #325180, #2d4271, #263562, #1e2852, #161c43, #0f1035);
+     background-image: radial-gradient(circle, #7fc7d9, #69b1cb, #579bbd, #4886ae, #3e709e, #38608f, #325180, #2d4271, #263562, #1e2852, #161c43, #0f1035);
 }
 *{
     margin: 0;
